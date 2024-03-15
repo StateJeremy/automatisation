@@ -1,7 +1,7 @@
 <?php
 
 // Définir une variable
-$nom = "test 23 Doe";
+$nom = "test 233 Doe";
 
 // Afficher la variable
 echo "Bonjour " . $nom . " !";
